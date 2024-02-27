@@ -32,8 +32,6 @@ Feel free to explore my repositories to see my learning process in action. Each 
 ---
 
 <h2 align="center"> 📜Languages and Tools⚒️</h2>
-From most proficient to least
-
 <div align="center">
   <h3 align="center">Languages</h3>
   <img alt="Python" title="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
@@ -45,7 +43,6 @@ From most proficient to least
   <img  alt="JavaScript" title="JavaScript" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img  alt="HTML5" title="HTML5" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 </div>
-
 
 <div align="center">
   <h3 align="center">Tools</h3>
@@ -60,8 +57,16 @@ From most proficient to least
 
 <br />
 <br />
+<hr/>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=DenisPiralic&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=DenisPiralic&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-
+<br/><br/>
 
               
