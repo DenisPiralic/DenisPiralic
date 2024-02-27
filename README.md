@@ -34,7 +34,7 @@ Languages and tools I have used, in order of proficiency
 <img align="left" alt="HTML5" title="HTML5" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 
 <br />
-
+<br />
 
 #### Tools
 <img align="left" alt="Jupyter" title="Jupyter" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
