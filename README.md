@@ -40,8 +40,11 @@ Feel free to explore my repositories to see my learning process in action. Each 
   <img  alt="Godot" title = "Godot" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
   <img  alt="Cplusplus" title = "Cplusplus" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
   <img  alt="Haskell" title = "Haskell" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" />
-  <img  alt="JavaScript" title="JavaScript" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img  alt="HTML5" title="HTML5" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img alt="CSS3" title="CSS3" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+
+  <img  alt="JavaScript" title="JavaScript" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  
 </div>
 
 <div align="center">
@@ -54,10 +57,18 @@ Feel free to explore my repositories to see my learning process in action. Each 
   <img  alt="NodeJS" title="NodeJS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
 </div>
 
+<br />
+<br />
+<hr/>
+
+
+<h2 align="center">⭐ Highlighted Projects & Repos ⭐</h2>
+<br>
 
 <br />
 <br />
 <hr/>
+
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
