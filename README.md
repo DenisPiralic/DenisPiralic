@@ -66,8 +66,8 @@ Feel free to explore my repositories to see my learning process in action. Each 
 <br>
 
 <div>
-    <h4>The Dissapearance</h4>
-<a>https://djp200304.itch.io/the-disappearance-an-ibm-skillsbuild-pursuit<a>
+    <h4>The Disappearance: An IBM Skillsbuild Pursuit</h4>
+    <a>https://djp200304.itch.io/the-disappearance-an-ibm-skillsbuild-pursuit</a>
 </div>
 
 
