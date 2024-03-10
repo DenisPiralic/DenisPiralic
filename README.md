@@ -67,7 +67,7 @@ Feel free to explore my repositories to see my learning process in action. Each 
 
 <div>
     <h4>The Disappearance: An IBM Skillsbuild Pursuit</h4>
-    <a href="https://djp200304.itch.io/the-disappearance-an-ibm-skillsbuild-pursuit">Game Link</a>
+    <a href="https://djp200304.itch.io/the-disappearance-an-ibm-skillsbuild-pursuit" target="_blank">Game Link</a>
 </div>
 
 
