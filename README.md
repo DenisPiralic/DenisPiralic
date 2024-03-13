@@ -64,26 +64,37 @@ Feel free to explore my repositories to see my learning process in action. Each 
 
 <h2 align="center">⭐ Highlighted Projects & Repos ⭐</h2>
 <br>
+<div style = "display: flex;">
 
-<div label="Software Engineering">
-<div>
-    <h4>The Disappearance: An IBM Skillsbuild Pursuit</h4>
-    <p> - This role-playing game (RPG) is designed to be used alongside IBMs SkillsBuild courses
-        (specifically Getting Started with Threat Intelligence and Hunting, Getting Started with
-        Enterprise Data Science, Getting Started with Enterprise Grade AI, Getting Started with Cloud
-        for the Enterprise, and Journey to Cloud: Envisioning Your Solution). 
-        - SkillsBuild is an online
-        platform aimed towards college/undergraduate students to allow them to build theirunderstanding of a variety of technology topics and earn digital credentials while doing so.
-    </p>
-    <h5>Platform: </h5> Godot
-    <h5>Language: GDScript </h5> Godot
-    <p>Unfortuntely, current policies and legislations means I cannot push the repo here, however the following is a link to the game that you can try yourself!</p>
-    <a href="https://djp200304.itch.io/the-disappearance-an-ibm-skillsbuild-pursuit" target="_blank">Game Link</a>
+  <div label="Software Engineering" style="width: 50vw;padding-right:25px">
+    <h3>Software Engineering</h3>
+    <div>
+        <a href="https://djp200304.itch.io/the-disappearance-an-ibm-skillsbuild-pursuit" target="_blank"><h4>The Disappearance: An IBM Skillsbuild Pursuit</h4></a>
+        <img src="./images/RPG.png"></img>
+        <p> 🎲 This role-playing game (RPG) is designed to be used alongside IBMs SkillsBuild courses <br>🎲 SkillsBuild is an online platform aimed towards college/undergraduate students to allow them to build theirunderstanding of a variety of technology topics and earn digital credentials while doing so. <br>🎲 Unfortunately the repository cannot be pushed into the public domain yet. But the link will take you to play the game. Have a look :)
+        </p>
+        <h5>Platform: </h5> Godot
+        <h5>Language: </h5> GDscript  
+    </div>
+    
+  </div>
+
+  <div label="Data Science" style="width: 50vw;">
+    <h3>Data Science</h3>
+    <div>
+      <a href="https://github.com/DenisPiralic/OptiverTrader" target="_blank"><h4>Optiver: Ready Trader Go!</h4></a>
+        <img src="./images/Optiver.gif"></img>
+        <p> 📈Ready Trader Go is a student coding competition that dives into the world of algorithmic trading.<br>📈<a href="https://github.com/adamSeidel" target="_blank">Adam</a> and I researched and encorporated pixel strand trading and managed to code it successfully in Python, with a large simulated profit<br>📈 More information in the LogBook UserManual !
+        </p> 
+        <h5>Language: </h5> Python, JupyterNotebook
+        <h5>Tools: </h5> Pandas, NumPy
+    </div>
+  </div>
+
 </div>
 
-
-<br />
-<br />
+<br/>
+<br/>
 <hr/>
 
 
