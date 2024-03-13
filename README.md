@@ -65,8 +65,19 @@ Feel free to explore my repositories to see my learning process in action. Each 
 <h2 align="center">⭐ Highlighted Projects & Repos ⭐</h2>
 <br>
 
+<div label="Software Engineering">
 <div>
     <h4>The Disappearance: An IBM Skillsbuild Pursuit</h4>
+    <p> - This role-playing game (RPG) is designed to be used alongside IBMs SkillsBuild courses
+        (specifically Getting Started with Threat Intelligence and Hunting, Getting Started with
+        Enterprise Data Science, Getting Started with Enterprise Grade AI, Getting Started with Cloud
+        for the Enterprise, and Journey to Cloud: Envisioning Your Solution). 
+        - SkillsBuild is an online
+        platform aimed towards college/undergraduate students to allow them to build theirunderstanding of a variety of technology topics and earn digital credentials while doing so.
+    </p>
+    <h5>Platform: </h5> Godot
+    <h5>Language: GDScript </h5> Godot
+    <p>Unfortuntely, current policies and legislations means I cannot push the repo here, however the following is a link to the game that you can try yourself!</p>
     <a href="https://djp200304.itch.io/the-disappearance-an-ibm-skillsbuild-pursuit" target="_blank">Game Link</a>
 </div>
 
