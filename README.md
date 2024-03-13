@@ -70,7 +70,7 @@ Feel free to explore my repositories to see my learning process in action. Each 
     <div>
         <a href="https://djp200304.itch.io/the-disappearance-an-ibm-skillsbuild-pursuit" target="_blank">The Disappearance: An IBM Skillsbuild Pursuit</a>
         <br>
-        <img src="./images/RPG.png" width="500px"></img>
+        <img href="https://djp200304.itch.io/the-disappearance-an-ibm-skillsbuild-pursuit" src="./images/RPG.png" width="500px"></img>
         <p> 🎲 This role-playing game (RPG) s is designed to be used alongside IBMs SkillsBuild courses <br>🎲 SkillsBuild is an online platform aimed towards college/undergraduate students to allow them to build theirunderstanding of a variety of technology topics and earn digital credentials while doing so. <br>🎲 Unfortunately the repository cannot be pushed into the public domain yet. But the link will take you to play the game. Have a look :)
         </p>
     </div>
