@@ -70,7 +70,7 @@ Feel free to explore my repositories to see my learning process in action. Each 
     <h3>Software Engineering</h3>
     <div>
         <a href="https://djp200304.itch.io/the-disappearance-an-ibm-skillsbuild-pursuit" target="_blank"><h4>The Disappearance: An IBM Skillsbuild Pursuit</h4></a>
-        <img src="./images/RPG.png"></img>
+        <img src="./images/RPG.png" width="50px"></img>
         <p> 🎲 This role-playing game (RPG) is designed to be used alongside IBMs SkillsBuild courses <br>🎲 SkillsBuild is an online platform aimed towards college/undergraduate students to allow them to build theirunderstanding of a variety of technology topics and earn digital credentials while doing so. <br>🎲 Unfortunately the repository cannot be pushed into the public domain yet. But the link will take you to play the game. Have a look :)
         </p>
         <h5>Platform: </h5> Godot
@@ -83,7 +83,7 @@ Feel free to explore my repositories to see my learning process in action. Each 
     <h3>Data Science</h3>
     <div>
       <a href="https://github.com/DenisPiralic/OptiverTrader" target="_blank"><h4>Optiver: Ready Trader Go!</h4></a>
-        <img src="./images/Optiver.gif"></img>
+        <img src="./images/Optiver.gif" width="50px" ></img>
         <p> 📈Ready Trader Go is a student coding competition that dives into the world of algorithmic trading.<br>📈<a href="https://github.com/adamSeidel" target="_blank">Adam</a> and I researched and encorporated pixel strand trading and managed to code it successfully in Python, with a large simulated profit<br>📈 More information in the LogBook UserManual !
         </p> 
         <h5>Language: </h5> Python, JupyterNotebook
