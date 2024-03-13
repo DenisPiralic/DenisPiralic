@@ -63,20 +63,20 @@ Feel free to explore my repositories to see my learning process in action. Each 
 
 
 <h1 align="center">⭐ Highlighted Projects & Repos ⭐</h1>
-<p align="center">click on the images for the repos</p>
+<p align="center">click on the images for the more</p>
 <div>
-    <h3>Software Engineering</h3>    
+    <h2>Software Engineering</h2>    
     <div>
-        <a href="https://djp200304.itch.io/the-disappearance-an-ibm-skillsbuild-pursuit" target="_blank"><img src="./images/RPG.png" width="400px"></img></a>
+        <a href="https://djp200304.itch.io/the-disappearance-an-ibm-skillsbuild-pursuit" target="_blank"><img src="./images/RPG.png" width="400px" align="center"></img></a>
         <p> 🎲 This role-playing game (RPG) is designed to be used alongside IBMs SkillsBuild courses <br>🎲 SkillsBuild is an online platform aimed towards college/undergraduate students to allow them to build theirunderstanding of a variety of technology topics and earn digital credentials while doing so. <br>🎲 Unfortunately the repository cannot be pushed into the public domain yet. But the link will take you to play the game. Have a look :)
         </p>
     </div>
 </div>
 
 <div>
-    <h3>Data Science</h3>
+    <h2>Data Science</h2>
     <div>
-        <a href="https://github.com/DenisPiralic/OptiverTrader" target="_blank"><img src="./images/Optiver.gif" width="400px" ></img></a>
+        <a href="https://github.com/DenisPiralic/OptiverTrader" target="_blank"><img src="./images/Optiver.gif" width="400px" align="center" ></img></a>
         <p> 📈Ready Trader Go is a student coding competition that dives into the world of algorithmic trading, hosted by Optiver<br>📈<a href="https://github.com/adamSeidel" target="_blank">Adam</a> and I researched and encorporated pixel strand trading and managed to code it successfully in Python, with a large simulated profit<br>📈 More information in the LogBook UserManual !
         </p> 
     </div>
