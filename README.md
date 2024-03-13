@@ -77,7 +77,7 @@ Feel free to explore my repositories to see my learning process in action. Each 
     <h2>Data Science</h2>
     <div >
         <a href="https://github.com/DenisPiralic/OptiverTrader" target="_blank"><img src="./images/Optiver.gif" width="400px" ></img></a>
-        <p> 📈Ready Trader Go is a student coding competition that dives into the world of algorithmic trading, hosted by Optiver<br>📈<a href="https://github.com/adamSeidel" target="_blank">Adam</a> and I researched and encorporated pixel strand trading and managed to code it successfully in Python, with a large simulated profit<br>📈 More information in the LogBook UserManual !
+        <p> 📈Ready Trader Go is a student coding competition that dives into the world of algorithmic trading, hosted by Optiver<br>📈<a href="https://github.com/adamSeidel" target="_blank">Adam</a> and I researched and encorporated pair trading and managed to code it successfully in Python, with a large simulated profit<br>📈 Click the image to have a look at the logbook. As well as a full learner's guide in how to use pair trading!
         </p> 
     </div>
 </div>
